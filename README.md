@@ -7,3 +7,5 @@ In this project, we had to:
 - Create and execute a JavaScript files using Node.js and Visual Studio Code (VSCode) terminal and Run and Debug
 
 Throughout the project, I refined my skills with the CLI commands, as well as got practice with VSCode and executing non-web server Node.js JS code.
+
+Click "View on GitHub" button to see project code. 
